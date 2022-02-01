@@ -1,6 +1,13 @@
-# javalin-jte-example
+## Javalin HTML Dialog Tag
+---
+### Description
 
-Replit run command (.replit)
 
-language = "java10"
-run = "mvn clean compile assembly:single && java -jar target/javalin-jte-example-1.0-SNAPSHOT-jar-with-dependencies.jar"
+---
+### Steps
+
+---
+### Sample Output
+
+---
+
