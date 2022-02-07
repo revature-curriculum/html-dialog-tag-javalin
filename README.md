@@ -1,4 +1,4 @@
-## Javalin HTML Dialog Tag
+## HTML Dialog Tag
 ---
 ### Description
 In this lab, you will create a dialog using the button and dialog tags.
