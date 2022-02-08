@@ -1,4 +1,4 @@
-## HTML Dialog Tag
+## HTML Dialog Tag Answer
 ---
 ### Description
 In this lab, you will create a dialog using the button and dialog tags.
